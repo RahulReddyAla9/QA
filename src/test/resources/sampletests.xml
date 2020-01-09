@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1" >
+    <test name="Regression suite 1" >
+        <parameter name="firstCity" value="London"/>
+        <parameter name="secondCity" value="New York"/>
+        <classes>
+            <class name="com.test.TestNGSampleTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,7 @@
+
+1.public void verifyPage()  -verifying Savvy Time web page
+2.public void firstCity() -adding 1st time zone
+3.public void secondCity()-adding 2nd time zone
+4.public void timeDifference()-checking time difference
+5.public void swappingCities()-checking swapping
+6.public void deleteCity()-deleting time zone

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="14132" started-at="2020-01-09T09:54:23 IST" finished-at="2020-01-09T09:54:37 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="14132" started-at="2020-01-09T09:54:23 IST" finished-at="2020-01-09T09:54:37 IST">
+      <class name="com.test.TestNGSampleTest">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.test.TestNGSampleTest@5f341870]" name="setWebDriver" is-config="true" duration-ms="2099" started-at="2020-01-09T09:54:23 IST" finished-at="2020-01-09T09:54:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setWebDriver -->
+        <test-method status="PASS" signature="searchPage()[pri:1, instance:com.test.TestNGSampleTest@5f341870]" name="searchPage" duration-ms="1522" started-at="2020-01-09T09:54:25 IST" description="verifying Savvy Time Search" finished-at="2020-01-09T09:54:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPage -->
+        <test-method status="PASS" signature="loadPage()[pri:2, instance:com.test.TestNGSampleTest@5f341870]" name="loadPage" duration-ms="2842" started-at="2020-01-09T09:54:26 IST" description="verifying Savvy Time web page" finished-at="2020-01-09T09:54:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="firstCity()[pri:3, instance:com.test.TestNGSampleTest@5f341870]" name="firstCity" duration-ms="2462" started-at="2020-01-09T09:54:29 IST" description="adding 1st time zone" finished-at="2020-01-09T09:54:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstCity -->
+        <test-method status="PASS" signature="secondCity()[pri:4, instance:com.test.TestNGSampleTest@5f341870]" name="secondCity" duration-ms="1782" started-at="2020-01-09T09:54:32 IST" description="adding 2nd time zone" finished-at="2020-01-09T09:54:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondCity -->
+        <test-method status="PASS" signature="timeDifference()[pri:5, instance:com.test.TestNGSampleTest@5f341870]" name="timeDifference" duration-ms="98" started-at="2020-01-09T09:54:33 IST" description="checking time difference" finished-at="2020-01-09T09:54:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeDifference -->
+        <test-method status="PASS" signature="swappingCities()[pri:6, instance:com.test.TestNGSampleTest@5f341870]" name="swappingCities" duration-ms="1269" started-at="2020-01-09T09:54:34 IST" description="checking swapping" finished-at="2020-01-09T09:54:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swappingCities -->
+        <test-method status="PASS" signature="deleteCity()[pri:7, instance:com.test.TestNGSampleTest@5f341870]" name="deleteCity" duration-ms="1868" started-at="2020-01-09T09:54:35 IST" description="deleting time zone" finished-at="2020-01-09T09:54:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCity -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.test.TestNGSampleTest@5f341870]" name="close" is-config="true" duration-ms="148" started-at="2020-01-09T09:54:37 IST" finished-at="2020-01-09T09:54:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.test.TestNGSampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
